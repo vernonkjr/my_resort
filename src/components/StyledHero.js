@@ -7,7 +7,6 @@ background: url(${props => props.img ? props.img : defaultImg}) center/cover no-
 display: flex;
 align-items: center;
 justify-content: center;
-
 `;
 
 export default StyledHero;
